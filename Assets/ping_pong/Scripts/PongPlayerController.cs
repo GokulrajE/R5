@@ -79,9 +79,9 @@ public class PongPlayerController : MonoBehaviour
 
         AdjustPaddleSizeForNextLevel();
         // for now
-        //Active Range of Motion of the patient to be clamped with game scene
-        romMaxY = ChooseGame.instance.min_y;
-        romMinY = ChooseGame.instance.max_y;
+        ////Active Range of Motion of the patient to be clamped with game scene
+        //romMaxY = ChooseGame.instance.min_y;
+        //romMinY = ChooseGame.instance.max_y;
 
     }
 

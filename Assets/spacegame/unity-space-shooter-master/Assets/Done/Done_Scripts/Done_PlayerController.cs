@@ -132,10 +132,10 @@ public class Done_PlayerController : MonoBehaviour
         
         //Active Range of Motion of the patient to be clamped with game scene
         //Debug.Log(ChooseGame.instance.max_x + ", " + ChooseGame.instance.min_x + ", " + ChooseGame.instance.max_y + ", " + ChooseGame.instance.min_y);
-        romMinX = ChooseGame.instance.max_x;
-        romMaxX = ChooseGame.instance.min_x;
-        romMaxY = ChooseGame.instance.min_y;
-        romMinY = ChooseGame.instance.max_y;
+        //romMinX = ChooseGame.instance.max_x;
+        //romMaxX = ChooseGame.instance.min_x;
+        //romMaxY = ChooseGame.instance.min_y;
+        //romMinY = ChooseGame.instance.max_y;
     }
     private void UpdateGameState(GameState state)
     {
