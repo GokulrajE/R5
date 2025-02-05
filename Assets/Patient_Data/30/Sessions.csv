@@ -1,0 +1,5 @@
+﻿SessionNumber,DateTime,Device,Assessment,StartTime,StopTime,GameName,TrialDataFileLocation,DeviceSetupLocation,AssistMode,AssistModeParameters,GameParameter
+1,24-07-2024 12:56:21,R2,1,24-07-2024 12:56:21,24-07-2024 12:56:47,ASSESSMENT,..\Assets\Patient_Data\30\24-07-2024\assessment_Data\assessment_24072024_125621.csv,Null,Null,Null,2.318821; 0.06081153;
+2,24-07-2024 15:01:19,R2,1,24-07-2024 15:01:19,24-07-2024 15:01:29,CALIBRATION,..\Assets\Patient_Data\30\24-07-2024\calibration\calibration_24072024_150119.csv,Null,Null,Null,Null
+2,24-07-2024 15:01:38,R2,0,24-07-2024 15:01:38,24-07-2024 15:01:50,SPACESHOOTER,..\Assets\Patient_Data\30\24-07-2024\spaceshooter\space_24072024_150138.csv,Null,Null,Null,0.5
+2,24-07-2024 15:01:52,R2,1,24-07-2024 15:01:52,24-07-2024 15:03:06,ASSESSMENT,..\Assets\Patient_Data\30\24-07-2024\assessment_Data\assessment_24072024_150152.csv,Null,Null,Null,2.291353; 0.1041581;

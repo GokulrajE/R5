@@ -1,0 +1,10 @@
+﻿SessionNumber,DateTime,Device,Assessment,StartTime,StopTime,GameName,TrialDataFileLocation,DeviceSetupLocation,AssistMode,AssistModeParameters,GameParameter
+1,23-07-2024 10:54:14,R2,1,23-07-2024 10:54:15,23-07-2024 11:10:40,ASSESSMENT,..\Assets\Patient_Data\15\23-07-2024\assessment_Data\assessment_23072024_105415.csv,Null,Null,Null,2.421456; 0.0970232;
+2,23-07-2024 11:18:27,R2,1,23-07-2024 11:18:27,23-07-2024 11:19:23,ASSESSMENT,..\Assets\Patient_Data\15\23-07-2024\assessment_Data\assessment_23072024_111827.csv,Null,Null,Null,2.523413; 0.1049183;
+3,23-07-2024 11:21:57,R2,1,23-07-2024 11:21:57,23-07-2024 11:28:31,ASSESSMENT,..\Assets\Patient_Data\15\23-07-2024\assessment_Data\assessment_23072024_112157.csv,Null,Null,Null,2.523413; 0.1049183;
+4,23-07-2024 11:29:51,R2,1,23-07-2024 11:29:51,23-07-2024 11:45:16,ASSESSMENT,..\Assets\Patient_Data\15\23-07-2024\assessment_Data\assessment_23072024_112951.csv,Null,Null,Null,2.523413; 0.1049183;
+5,23-07-2024 11:45:43,R2,1,23-07-2024 11:45:44,23-07-2024 11:46:21,ASSESSMENT,..\Assets\Patient_Data\15\23-07-2024\assessment_Data\assessment_23072024_114544.csv,Null,Null,Null,2.523413; 0.1049183;
+6,23-07-2024 11:46:49,R2,1,23-07-2024 11:46:49,23-07-2024 11:55:14,ASSESSMENT,..\Assets\Patient_Data\15\23-07-2024\assessment_Data\assessment_23072024_114649.csv,Null,Null,Null,2.523413; 0.1049183;
+7,23-07-2024 12:01:39,R2,1,23-07-2024 12:01:39,23-07-2024 12:02:09,ASSESSMENT,..\Assets\Patient_Data\15\23-07-2024\assessment_Data\assessment_23072024_120139.csv,Null,Null,Null,2.523413; 0.1049183;
+8,23-07-2024 12:03:05,R2,1,23-07-2024 12:03:06,23-07-2024 12:03:57,ASSESSMENT,..\Assets\Patient_Data\15\23-07-2024\assessment_Data\assessment_23072024_120306.csv,Null,Null,Null,2.523413; 0.1049183;
+9,23-07-2024 12:12:59,R2,1,23-07-2024 12:12:59,23-07-2024 12:13:38,ASSESSMENT,..\Assets\Patient_Data\15\23-07-2024\assessment_Data\assessment_23072024_121259.csv,Null,Null,Null,2.523413; 0.1049183;

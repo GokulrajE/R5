@@ -1,0 +1,8 @@
+﻿SessionNumber,DateTime,Device,Assessment,StartTime,StopTime,GameName,TrialDataFileLocation,DeviceSetupLocation,AssistMode,AssistModeParameters,GameParameter
+1,31-07-2024 12:09:48,R2,1,31-07-2024 12:09:48,31-07-2024 12:11:23, REACHING ASSESSMENT,..\Assets\Patient_Data\54\31-07-2024\assessment_Data\assessment_20240731_120948.csv,Null,Null,Null,1.427872;0.5522227;
+2,31-07-2024 12:32:15,R2,1,31-07-2024 12:32:15,31-07-2024 12:32:32, REACHING ASSESSMENT,..\Assets\Patient_Data\54\31-07-2024\assessment_Data\assessment_20240731_123215.csv,Null,Null,Null,1.427872;0.5522227;
+3,12-08-2024 16:04:33,R2,1,12-08-2024 16:04:33,12-08-2024 16:04:35,CALIBRATION,..\Assets\Patient_Data\54\12-08-2024\calibration\calibration_12082024_160433.csv,Null,Null,Null,Null
+3,12-08-2024 16:04:35,R2,1,12-08-2024 16:04:35,12-08-2024 16:04:39,CALIBRATION,..\Assets\Patient_Data\54\12-08-2024\calibration\calibration_12082024_160435.csv,Null,Null,Null,Null
+3,12-08-2024 16:04:42,R2,0,12-08-2024 16:04:44,12-08-2024 16:05:13,TUK-TUK,..\Assets\Patient_Data\54\12-08-2024\flappy_Data\FlappyGameData_12082024_160442.csv,NULL,Null,Null,-2
+4,12-08-2024 16:06:52,R2,1,12-08-2024 16:06:52,12-08-2024 16:06:53,CALIBRATION,..\Assets\Patient_Data\54\12-08-2024\calibration\calibration_12082024_160652.csv,Null,Null,Null,Null
+4,12-08-2024 16:06:53,R2,1,12-08-2024 16:06:53,12-08-2024 16:06:57,CALIBRATION,..\Assets\Patient_Data\54\12-08-2024\calibration\calibration_12082024_160653.csv,Null,Null,Null,Null

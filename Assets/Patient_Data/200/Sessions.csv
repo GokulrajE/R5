@@ -1,0 +1,15 @@
+﻿SessionNumber,DateTime,Device,Assessment,StartTime,StopTime,GameName,TrialDataFileLocation,DeviceSetupLocation,AssistMode,AssistModeParameters,GameParameter
+1,11-11-2024 08:43:38,R2,1,11-11-2024 08:43:38,11-11-2024 08:43:44,CALIBRATION,..\Assets\Patient_Data\200\11-11-2024\calibration\calibration_11112024_084338.csv,Null,Null,Null,Null
+1,11-11-2024 08:43:47,R2,0,11-11-2024 08:43:47,11-11-2024 08:44:09,SPACESHOOTER,..\Assets\Patient_Data\200\11-11-2024\spaceshooter\space_11112024_084347.csv,Null,Null,Null,0.5
+1,11-11-2024 08:47:38,R2,1,11-11-2024 08:47:38,11-11-2024 08:47:43,CALIBRATION,..\Assets\Patient_Data\200\11-11-2024\calibration\calibration_11112024_084738.csv,Null,Null,Null,Null
+1,11-11-2024 08:47:43,R2,1,11-11-2024 08:47:43,11-11-2024 08:47:47,CALIBRATION,..\Assets\Patient_Data\200\11-11-2024\calibration\calibration_11112024_084743.csv,Null,Null,Null,Null
+1,11-11-2024 08:47:47,R2,1,11-11-2024 08:47:47,11-11-2024 08:48:01,CALIBRATION,..\Assets\Patient_Data\200\11-11-2024\calibration\calibration_11112024_084747.csv,Null,Null,Null,Null
+1,11-11-2024 08:48:01,R2,1,11-11-2024 08:48:01,11-11-2024 08:48:27,CALIBRATION,..\Assets\Patient_Data\200\11-11-2024\calibration\calibration_11112024_084801.csv,Null,Null,Null,Null
+1,11-11-2024 08:48:33,R2,1,11-11-2024 08:48:33,11-11-2024 08:48:49,CALIBRATION,..\Assets\Patient_Data\200\11-11-2024\calibration\calibration_11112024_084833.csv,Null,Null,Null,Null
+1,11-11-2024 08:48:52,R2,0,11-11-2024 08:48:52,11-11-2024 08:49:59,SPACESHOOTER,..\Assets\Patient_Data\200\11-11-2024\spaceshooter\space_11112024_084852.csv,Null,Null,Null,0.4
+1,11-11-2024 08:50:04,R2,1,11-11-2024 08:50:04,11-11-2024 08:50:17,CALIBRATION,..\Assets\Patient_Data\200\11-11-2024\calibration\calibration_11112024_085004.csv,Null,Null,Null,Null
+1,11-11-2024 08:50:21,R2,0,11-11-2024 08:50:21,11-11-2024 08:51:39,SPACESHOOTER,..\Assets\Patient_Data\200\11-11-2024\spaceshooter\space_11112024_085021.csv,Null,Null,Null,0.5
+1,11-11-2024 08:51:41,R2,1,11-11-2024 08:51:41,11-11-2024 08:51:47,CALIBRATION,..\Assets\Patient_Data\200\11-11-2024\calibration\calibration_11112024_085141.csv,Null,Null,Null,Null
+1,11-11-2024 08:51:47,R2,1,11-11-2024 08:51:47,11-11-2024 08:51:54,CALIBRATION,..\Assets\Patient_Data\200\11-11-2024\calibration\calibration_11112024_085147.csv,Null,Null,Null,Null
+1,11-11-2024 08:51:54,R2,1,11-11-2024 08:51:54,11-11-2024 08:52:01,CALIBRATION,..\Assets\Patient_Data\200\11-11-2024\calibration\calibration_11112024_085154.csv,Null,Null,Null,Null
+1,11-11-2024 08:52:05,R2,0,11-11-2024 08:52:05,11-11-2024 08:52:38,SPACESHOOTER,..\Assets\Patient_Data\200\11-11-2024\spaceshooter\space_11112024_085205.csv,Null,Null,Null,0.4

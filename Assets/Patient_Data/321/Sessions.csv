@@ -1,0 +1,4 @@
+﻿SessionNumber,DateTime,Device,Assessment,StartTime,StopTime,GameName,TrialDataFileLocation,DeviceSetupLocation,AssistMode,AssistModeParameters,GameParameter
+1,20-01-2025 11:17:06,R2,0,20-01-2025 11:17:06,20-01-2025 11:17:12,SPACESHOOTER,..\Assets\Patient_Data\321\20-01-2025\spaceshooter\space_20012025_111706.csv,Null,Null,Null,0.5
+1,20-01-2025 11:17:16,R2,0,20-01-2025 11:17:19,20-01-2025 11:17:22,TUK-TUK,..\Assets\Patient_Data\321\20-01-2025\flappy_Data\FlappyGameData_20012025_111716.csv,NULL,Null,Null,-2
+1,20-01-2025 11:17:35,R2,0,20-01-2025 11:17:35,20-01-2025 11:17:49,SPACESHOOTER,..\Assets\Patient_Data\321\20-01-2025\spaceshooter\space_20012025_111735.csv,Null,Null,Null,0.4

@@ -1,0 +1,11 @@
+﻿SessionNumber,DateTime,Device,Assessment,StartTime,StopTime,GameName,TrialDataFileLocation,DeviceSetupLocation,AssistMode,AssistModeParameters,GameParameter
+1,10-07-2024 12:07,R2,0,10-07-2024 12:07,10-07-2024 12:07,SPACESHOOTER,..\Assets\Patient_Data\7\10-07-2024\spaceshooter\space_10072024_120704.csv,Null,Null,Null,||0.5
+1,10-07-2024 12:07,R2,0,10-07-2024 12:07,10-07-2024 12:07,TUK-TUK,..\Assets\Patient_Data\7\10-07-2024\flappy_Data\FlappyGameData_10072024_120716.csv,NULL,Null,Null,||-2
+1,10-07-2024 12:07,R2,0,10-07-2024 12:07,10-07-2024 12:07,PING-PONG,..\Assets\Patient_Data\7\10-07-2024\Pong_Data\Pong_10072024_120732.csv,Null,Null,Null,||1||0
+1,10-07-2024 12:07,R2,0,10-07-2024 12:07,10-07-2024 12:07,PING-PONG,..\Assets\Patient_Data\7\10-07-2024\assessment_Data\assessment_10072024_120741.csv,Null,Null,Null,Null
+1,10-07-2024 12:07,R2,1,10-07-2024 12:07,10-07-2024 12:07,CALIBRATION,..\Assets\Patient_Data\7\10-07-2024\calibration\calibration_10072024_120748.csv,Null,Null,Null,Null
+2,10-07-2024 12:11,R2,0,10-07-2024 12:11,10-07-2024 12:11,SPACESHOOTER,..\Assets\Patient_Data\7\10-07-2024\spaceshooter\space_10072024_121135.csv,Null,Null,Null,||0.5
+2,10-07-2024 12:11,R2,1,10-07-2024 12:11,10-07-2024 12:11,ASSESSMENT,..\Assets\Patient_Data\7\10-07-2024\assessment_Data\assessment_10072024_121141.csv,Null,Null,Null,Null
+2,10-07-2024 12:11,R2,1,10-07-2024 12:11,10-07-2024 12:11,CALIBRATION,..\Assets\Patient_Data\7\10-07-2024\calibration\calibration_10072024_121146.csv,Null,Null,Null,Null
+2,10-07-2024 12:12,R2,0,10-07-2024 12:12,10-07-2024 12:12,PING-PONG,..\Assets\Patient_Data\7\10-07-2024\Pong_Data\Pong_10072024_121205.csv,Null,Null,Null,||1||0
+2,10-07-2024 12:12,R2,0,10-07-2024 12:12,10-07-2024 12:12,TUK-TUK,..\Assets\Patient_Data\7\10-07-2024\flappy_Data\FlappyGameData_10072024_121223.csv,NULL,Null,Null,||-2

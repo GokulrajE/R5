@@ -1,0 +1,3 @@
+﻿SessionNumber,DateTime,Device,Assessment,StartTime,StopTime,GameName,TrialDataFileLocation,DeviceSetupLocation,AssistMode,AssistModeParameters,GameParameter
+1,27-07-2024 10:19:31,R2,1,27-07-2024 10:19:31,27-07-2024 10:19:31, REACHING ASSESSMENT,..\Assets\Patient_Data\40\27-07-2024\assessment_Data\assessment_20240727_101931.csv,Null,Null,Null, 
+1,27-07-2024 10:19:48,R2,0,27-07-2024 10:19:48,27-07-2024 10:19:51,SPACESHOOTER,..\Assets\Patient_Data\40\27-07-2024\spaceshooter\space_27072024_101948.csv,Null,Null,Null,0.5

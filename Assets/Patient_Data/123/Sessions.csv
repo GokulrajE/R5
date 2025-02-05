@@ -1,0 +1,7 @@
+﻿SessionNumber,DateTime,Device,Assessment,StartTime,StopTime,GameName,TrialDataFileLocation,DeviceSetupLocation,AssistMode,AssistModeParameters,GameParameter,MoveTime
+1,28-01-2025 11:49:59,R2,1,28-01-2025 11:49:59,28-01-2025 11:50:29,CALIBRATION,..\Assets\Patient_Data\123\28-01-2025\calibration\calibration_28012025_114959.csv,Null,Null,Null,Null,0
+1,28-01-2025 11:50:38,R2,0,28-01-2025 11:50:38,28-01-2025 11:51:26,SPACESHOOTER,..\Assets\Patient_Data\123\28-01-2025\spaceshooter\space_28012025_115038.csv,Null,Null,Null,0.5,120
+2,28-01-2025 11:53:36,R2,1,28-01-2025 11:53:36,28-01-2025 11:53:50,CALIBRATION,..\Assets\Patient_Data\123\28-01-2025\calibration\calibration_28012025_115336.csv,Null,Null,Null,Null,0
+2,28-01-2025 11:53:54,R2,0,28-01-2025 11:53:56,28-01-2025 11:54:59,TUK-TUK,..\Assets\Patient_Data\123\28-01-2025\flappy_Data\FlappyGameData_28012025_115354.csv,NULL,Null,Null,-2,151
+2,28-01-2025 11:55:10,R2,0,28-01-2025 11:55:10,28-01-2025 11:57:52,PING-PONG,..\Assets\Patient_Data\123\28-01-2025\Pong_Data\Pong_28012025_115510.csv,Null,Null,Null,1,50
+2,28-01-2025 11:58:02,R2,1,28-01-2025 11:58:02,28-01-2025 11:58:23, REACHING ASSESSMENT,..\Assets\Patient_Data\123\28-01-2025\assessment_Data\assessment_20250128_115802.csv,Null,Null,Null,None,0

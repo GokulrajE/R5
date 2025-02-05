@@ -1,0 +1,9 @@
+﻿SessionNumber,DateTime,Device,Assessment,StartTime,StopTime,GameName,TrialDataFileLocation,DeviceSetupLocation,AssistMode,AssistModeParameters,GameParameter
+4,08-07-2024 13:57:07,R2,0,08-07-2024 13:57:07,08-07-2024 13:57:07,SPACESHOOTERR,,YourDeviceSetupLocation,Null,YourAssistModeParameters,YourGameParameter
+5,08-07-2024 19:53:14,R2,0,08-07-2024 19:53:16,08-07-2024 19:53:44,TUK-TUK,..\Assets\Patient_Data\2\08-07-2024\flappy_Data\FlappyGameData_08072024_195314.csv,YourDeviceSetupLocation,Null,YourAssistModeParameters,YourGameParameter
+5,08-07-2024 19:53:53,R2,0,08-07-2024 19:53:53,08-07-2024 19:54:03,SPACESHOOTERR,,YourDeviceSetupLocation,Null,YourAssistModeParameters,YourGameParameter
+6,19-08-2024 14:45:27,R2,1,19-08-2024 14:45:27,19-08-2024 14:45:32,CALIBRATION,..\Assets\Patient_Data\2\19-08-2024\calibration\calibration_19082024_144527.csv,Null,Null,Null,Null
+6,19-08-2024 14:45:33,R2,1,19-08-2024 14:45:33,19-08-2024 14:45:37,CALIBRATION,..\Assets\Patient_Data\2\19-08-2024\calibration\calibration_19082024_144533.csv,Null,Null,Null,Null
+6,19-08-2024 14:45:41,R2,0,19-08-2024 14:45:41,19-08-2024 14:46:03,SPACESHOOTER,..\Assets\Patient_Data\2\19-08-2024\spaceshooter\space_19082024_144541.csv,Null,Null,Null,0.5
+6,19-08-2024 14:46:32,R2,0,19-08-2024 14:46:32,19-08-2024 14:46:43,SPACESHOOTER,..\Assets\Patient_Data\2\19-08-2024\spaceshooter\space_19082024_144632.csv,Null,Null,Null,0.4
+7,19-08-2024 15:03:09,R2,0,19-08-2024 15:03:09,19-08-2024 15:03:14,SPACESHOOTER,..\Assets\Patient_Data\2\19-08-2024\spaceshooter\space_19082024_150309.csv,Null,Null,Null,0.3

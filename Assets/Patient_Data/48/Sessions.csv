@@ -1,0 +1,3 @@
+﻿SessionNumber,DateTime,Device,Assessment,StartTime,StopTime,GameName,TrialDataFileLocation,DeviceSetupLocation,AssistMode,AssistModeParameters,GameParameter
+1,30-07-2024 15:32:19,R2,1,30-07-2024 15:32:19,30-07-2024 15:32:41, REACHING ASSESSMENT,..\Assets\Patient_Data\48\30-07-2024\assessment_Data\assessment_20240730_153219.csv,Null,Null,Null,1.367138;-0.4433207;
+2,30-07-2024 15:34:29,R2,1,30-07-2024 15:34:29,30-07-2024 15:36:23, REACHING ASSESSMENT,..\Assets\Patient_Data\48\30-07-2024\assessment_Data\assessment_20240730_153429.csv,Null,Null,Null,2.13062;-2.241371;

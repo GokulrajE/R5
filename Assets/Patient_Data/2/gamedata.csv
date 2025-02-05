@@ -1,0 +1,13 @@
+sessionnumber,datetime,device,assessment,starttime,Stoptime,gamename,traildatafilelocation,devicesetupfile,assistmode,assistmodeparameter,gameparameter
+1,08-07-2024 10:19:15.192,R2,1,10:19:15.190,10:19:32.200,ASSESSMENT,..\Assets\Patient_Data\2\08-07-2024\assessment_Data\assessment_08072024_101915.csv,null,null, null,null
+1,08-07-2024 10:19:42.958,R2,1,10:19:42.958,10:19:58.087,CALIBRATION,..\Assets\Patient_Data\2\08-07-2024\calibration\calibration_08072024_101942.csv,null,null,null,null
+1,08-07-2024 10:19:58.527,R2,1,10:19:58.527,10:20:07.382,CALIBRATION,..\Assets\Patient_Data\2\08-07-2024\calibration\calibration_08072024_101958.csv,null,null,null,null
+1,08-07-2024 10:20:07.830,R2,1,10:20:07.830,10:20:37.783,CALIBRATION,..\Assets\Patient_Data\2\08-07-2024\calibration\calibration_08072024_102007.csv,null,null,null,null
+1,08-07-2024 10:20:38.247,R2,1,10:20:38.247,10:20:46.127,CALIBRATION,..\Assets\Patient_Data\2\08-07-2024\calibration\calibration_08072024_102038.csv,null,null,null,null
+1,08-07-2024 10:20:46.568,R2,1,10:20:46.568,10:20:49.852,CALIBRATION,..\Assets\Patient_Data\2\08-07-2024\calibration\calibration_08072024_102046.csv,null,null,null,null
+1,08-07-2024 10:20:53.646,R2,0,10:20:53.646,10:22:57.174,SPACESHOOTER,..\Assets\Patient_Data\2\08-07-2024\spaceshooter\space_08072024_102053.csv,null,null, null,null
+1,08-07-2024 10:23:02.445,R2,0,10:23:01.022,10:23:02.430,TUK-TUK,..\Assets\Patient_Data\2\08-07-2024\flappy_Data\FlappyGameData_08072024_102301.csv,null,null, null,null
+1,08-07-2024 10:25:15.169,R2,0,10:25:15.169,10:26:11.207,PING-PONG,..\Assets\Patient_Data\2\08-07-2024\Pong_Data\Pong_08072024_102515.csv,null,null, null,null
+2,08-07-2024 10:26:25.803,R2,1,10:26:25.803,10:26:30.382,CALIBRATION,..\Assets\Patient_Data\2\08-07-2024\calibration\calibration_08072024_102625.csv,null,null,null,null
+2,08-07-2024 10:26:33.923,R2,0,10:26:33.922,10:26:43.376,SPACESHOOTER,..\Assets\Patient_Data\2\08-07-2024\spaceshooter\space_08072024_102633.csv,null,null, null,null
+2,08-07-2024 10:26:48.552,R2,0,10:26:47.289,10:26:48.532,TUK-TUK,..\Assets\Patient_Data\2\08-07-2024\flappy_Data\FlappyGameData_08072024_102647.csv,null,null, null,null

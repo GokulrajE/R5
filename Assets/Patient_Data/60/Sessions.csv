@@ -1,0 +1,20 @@
+﻿SessionNumber,DateTime,Device,Assessment,StartTime,StopTime,GameName,TrialDataFileLocation,DeviceSetupLocation,AssistMode,AssistModeParameters,GameParameter
+1,01-08-2024 11:54:41,R2,1,01-08-2024 11:54:41,01-08-2024 11:54:46,CALIBRATION,..\Assets\Patient_Data\60\01-08-2024\calibration\calibration_01082024_115441.csv,Null,Null,Null,Null
+1,01-08-2024 11:54:48,R2,1,01-08-2024 11:54:48,01-08-2024 11:57:28, REACHING ASSESSMENT,..\Assets\Patient_Data\60\01-08-2024\assessment_Data\assessment_20240801_115448.csv,Null,Null,Null,0.5581585;-0.9700881;
+1,01-08-2024 11:57:32,R2,0,01-08-2024 11:57:32,01-08-2024 11:58:35,SPACESHOOTER,..\Assets\Patient_Data\60\01-08-2024\spaceshooter\space_01082024_115732.csv,Null,Null,Null,0.5
+1,01-08-2024 11:58:38,R2,0,01-08-2024 11:58:39,01-08-2024 11:59:41,TUK-TUK,..\Assets\Patient_Data\60\01-08-2024\flappy_Data\FlappyGameData_01082024_115838.csv,NULL,Null,Null,-2
+2,01-08-2024 12:00:05,R2,1,01-08-2024 12:00:05,01-08-2024 12:00:10,CALIBRATION,..\Assets\Patient_Data\60\01-08-2024\calibration\calibration_01082024_120005.csv,Null,Null,Null,Null
+2,01-08-2024 12:00:12,R2,1,01-08-2024 12:00:12,01-08-2024 12:00:44, REACHING ASSESSMENT,..\Assets\Patient_Data\60\01-08-2024\assessment_Data\assessment_20240801_120012.csv,Null,Null,Null,0.5581585;-0.9700881;
+2,01-08-2024 12:00:52,R2,0,01-08-2024 12:00:52,01-08-2024 12:01:56,SPACESHOOTER,..\Assets\Patient_Data\60\01-08-2024\spaceshooter\space_01082024_120052.csv,Null,Null,Null,0.5
+2,01-08-2024 12:01:59,R2,0,01-08-2024 12:02:02,01-08-2024 12:03:03,TUK-TUK,..\Assets\Patient_Data\60\01-08-2024\flappy_Data\FlappyGameData_01082024_120159.csv,NULL,Null,Null,-2
+3,02-08-2024 13:09:54,R2,1,02-08-2024 13:09:54,02-08-2024 13:09:59,CALIBRATION,..\Assets\Patient_Data\60\02-08-2024\calibration\calibration_02082024_130954.csv,Null,Null,Null,Null
+4,06-08-2024 15:49:13,R2,1,06-08-2024 15:49:13,06-08-2024 15:49:15,CALIBRATION,..\Assets\Patient_Data\60\06-08-2024\calibration\calibration_06082024_154913.csv,Null,Null,Null,Null
+4,06-08-2024 15:49:15,R2,1,06-08-2024 15:49:15,06-08-2024 15:49:20,CALIBRATION,..\Assets\Patient_Data\60\06-08-2024\calibration\calibration_06082024_154915.csv,Null,Null,Null,Null
+4,06-08-2024 15:49:22,R2,1,06-08-2024 15:49:22,06-08-2024 15:49:33, REACHING ASSESSMENT,..\Assets\Patient_Data\60\06-08-2024\assessment_Data\assessment_20240806_154922.csv,Null,Null,Null,None
+4,06-08-2024 15:49:48,R2,0,06-08-2024 15:49:48,06-08-2024 15:50:09,SPACESHOOTER,..\Assets\Patient_Data\60\06-08-2024\spaceshooter\space_06082024_154948.csv,Null,Null,Null,0.6
+4,06-08-2024 15:50:12,R2,1,06-08-2024 15:50:12,06-08-2024 15:50:23, REACHING ASSESSMENT,..\Assets\Patient_Data\60\06-08-2024\assessment_Data\assessment_20240806_155012.csv,Null,Null,Null,None
+5,06-08-2024 15:51:24,R2,1,06-08-2024 15:51:24,06-08-2024 15:51:42, REACHING ASSESSMENT,..\Assets\Patient_Data\60\06-08-2024\assessment_Data\assessment_20240806_155124.csv,Null,Null,Null,0.569223;-0.7296889;
+5,06-08-2024 15:51:44,R2,1,06-08-2024 15:51:44,06-08-2024 15:51:45,CALIBRATION,..\Assets\Patient_Data\60\06-08-2024\calibration\calibration_06082024_155144.csv,Null,Null,Null,Null
+5,06-08-2024 15:51:46,R2,1,06-08-2024 15:51:46,06-08-2024 15:51:50,CALIBRATION,..\Assets\Patient_Data\60\06-08-2024\calibration\calibration_06082024_155146.csv,Null,Null,Null,Null
+5,06-08-2024 15:51:51,R2,1,06-08-2024 15:51:51,06-08-2024 15:52:05, REACHING ASSESSMENT,..\Assets\Patient_Data\60\06-08-2024\assessment_Data\assessment_20240806_155151.csv,Null,Null,Null,1.496575;-1.016244;
+5,06-08-2024 15:52:11,R2,1,06-08-2024 15:52:11,06-08-2024 15:52:16, REACHING ASSESSMENT,..\Assets\Patient_Data\60\06-08-2024\assessment_Data\assessment_20240806_155211.csv,Null,Null,Null,None

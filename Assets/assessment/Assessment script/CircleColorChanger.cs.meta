@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 865cbddeccb6669408b5c27321791230
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - circlePrefab: {fileID: 6587905260502347792, guid: 8202d30a723aa89488703236220f3b08, type: 3}
+  - targetPrefab: {fileID: 1086788214566845203, guid: adfef8e9d23c42741b029d97ff41820b, type: 3}
+  - PlayerPosition: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

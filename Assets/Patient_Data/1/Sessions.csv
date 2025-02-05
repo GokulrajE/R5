@@ -1,0 +1,170 @@
+﻿SessionNumber,DateTime,Device,Assessment,StartTime,StopTime,GameName,TrialDataFileLocation,DeviceSetupLocation,AssistMode,AssistModeParameters,GameParameter
+1,28-08-2024 10:27:43,R2,1,28-08-2024 10:27:43,28-08-2024 10:27:44,CALIBRATION,..\Assets\Patient_Data\1\28-08-2024\calibration\calibration_28082024_102743.csv,Null,Null,Null,Null
+1,28-08-2024 10:27:44,R2,1,28-08-2024 10:27:44,28-08-2024 10:27:49,CALIBRATION,..\Assets\Patient_Data\1\28-08-2024\calibration\calibration_28082024_102744.csv,Null,Null,Null,Null
+1,28-08-2024 10:27:52,R2,0,28-08-2024 10:27:52,28-08-2024 10:28:55,SPACESHOOTER,..\Assets\Patient_Data\1\28-08-2024\spaceshooter\space_28082024_102752.csv,Null,Null,Null,0.5
+1,28-08-2024 10:28:55,R2,0,28-08-2024 10:28:55,28-08-2024 10:29:58,SPACESHOOTER,..\Assets\Patient_Data\1\28-08-2024\spaceshooter\space_28082024_102752.csv,Null,Null,Null,0.5
+2,28-08-2024 10:38:42,R2,1,28-08-2024 10:38:42,28-08-2024 10:38:43,CALIBRATION,..\Assets\Patient_Data\1\28-08-2024\calibration\calibration_28082024_103842.csv,Null,Null,Null,Null
+2,28-08-2024 10:38:43,R2,1,28-08-2024 10:38:43,28-08-2024 10:38:48,CALIBRATION,..\Assets\Patient_Data\1\28-08-2024\calibration\calibration_28082024_103843.csv,Null,Null,Null,Null
+2,28-08-2024 10:38:51,R2,0,28-08-2024 10:38:51,28-08-2024 10:39:52,SPACESHOOTER,..\Assets\Patient_Data\1\28-08-2024\spaceshooter\space_28082024_103851.csv,Null,Null,Null,0.6
+2,28-08-2024 10:39:52,R2,0,28-08-2024 10:39:52,28-08-2024 10:40:53,SPACESHOOTER,..\Assets\Patient_Data\1\28-08-2024\spaceshooter\space_28082024_103851.csv,Null,Null,Null,0.7
+2,28-08-2024 10:40:53,R2,0,28-08-2024 10:40:53,28-08-2024 10:41:04,SPACESHOOTER,..\Assets\Patient_Data\1\28-08-2024\spaceshooter\space_28082024_103851.csv,Null,Null,Null,0.8
+3,03-09-2024 10:53:25,R2,1,03-09-2024 10:53:25,03-09-2024 10:53:26,CALIBRATION,..\Assets\Patient_Data\1\03-09-2024\calibration\calibration_03092024_105325.csv,Null,Null,Null,Null
+3,03-09-2024 10:53:26,R2,1,03-09-2024 10:53:26,03-09-2024 10:53:30,CALIBRATION,..\Assets\Patient_Data\1\03-09-2024\calibration\calibration_03092024_105326.csv,Null,Null,Null,Null
+3,03-09-2024 10:53:33,R2,0,03-09-2024 10:53:33,03-09-2024 10:54:40,SPACESHOOTER,..\Assets\Patient_Data\1\03-09-2024\spaceshooter\space_03092024_105333.csv,Null,Null,Null,0.9
+4,27-09-2024 14:14:15,R2,1,27-09-2024 14:14:15,27-09-2024 14:14:16,CALIBRATION,..\Assets\Patient_Data\1\27-09-2024\calibration\calibration_27092024_141415.csv,Null,Null,Null,Null
+4,27-09-2024 14:14:17,R2,1,27-09-2024 14:14:17,27-09-2024 14:14:22,CALIBRATION,..\Assets\Patient_Data\1\27-09-2024\calibration\calibration_27092024_141417.csv,Null,Null,Null,Null
+4,27-09-2024 14:14:23,R2,1,27-09-2024 14:14:23,27-09-2024 14:15:05, REACHING ASSESSMENT,..\Assets\Patient_Data\1\27-09-2024\assessment_Data\assessment_20240927_141423.csv,Null,Null,Null,-0.6266178;-1.768108;
+5,27-09-2024 14:16:32,R2,1,27-09-2024 14:16:32,27-09-2024 14:16:34,CALIBRATION,..\Assets\Patient_Data\1\27-09-2024\calibration\calibration_27092024_141632.csv,Null,Null,Null,Null
+5,27-09-2024 14:16:34,R2,1,27-09-2024 14:16:34,27-09-2024 14:16:38,CALIBRATION,..\Assets\Patient_Data\1\27-09-2024\calibration\calibration_27092024_141634.csv,Null,Null,Null,Null
+5,27-09-2024 14:16:40,R2,1,27-09-2024 14:16:40,27-09-2024 14:17:10, REACHING ASSESSMENT,..\Assets\Patient_Data\1\27-09-2024\assessment_Data\assessment_20240927_141640.csv,Null,Null,Null,None
+5,27-09-2024 14:17:11,R2,1,27-09-2024 14:17:11,27-09-2024 14:17:25, REACHING ASSESSMENT,..\Assets\Patient_Data\1\27-09-2024\assessment_Data\assessment_20240927_141711.csv,Null,Null,Null,None
+5,27-09-2024 14:17:26,R2,1,27-09-2024 14:17:26,27-09-2024 14:18:05, REACHING ASSESSMENT,..\Assets\Patient_Data\1\27-09-2024\assessment_Data\assessment_20240927_141726.csv,Null,Null,Null,None
+6,27-09-2024 14:20:43,R2,1,27-09-2024 14:20:43,27-09-2024 14:21:00, REACHING ASSESSMENT,..\Assets\Patient_Data\1\27-09-2024\assessment_Data\assessment_20240927_142043.csv,Null,Null,Null,None
+6,27-09-2024 14:21:01,R2,1,27-09-2024 14:21:01,27-09-2024 14:21:02,CALIBRATION,..\Assets\Patient_Data\1\27-09-2024\calibration\calibration_27092024_142101.csv,Null,Null,Null,Null
+6,27-09-2024 14:21:02,R2,1,27-09-2024 14:21:02,27-09-2024 14:21:06,CALIBRATION,..\Assets\Patient_Data\1\27-09-2024\calibration\calibration_27092024_142102.csv,Null,Null,Null,Null
+6,27-09-2024 14:21:08,R2,1,27-09-2024 14:21:08,27-09-2024 14:21:56, REACHING ASSESSMENT,..\Assets\Patient_Data\1\27-09-2024\assessment_Data\assessment_20240927_142108.csv,Null,Null,Null,-0.5572156;-2.217946;
+7,28-09-2024 09:32:21,R2,1,28-09-2024 09:32:21,28-09-2024 09:32:22,CALIBRATION,..\Assets\Patient_Data\1\28-09-2024\calibration\calibration_28092024_093221.csv,Null,Null,Null,Null
+7,28-09-2024 09:32:23,R2,1,28-09-2024 09:32:23,28-09-2024 09:32:29, REACHING ASSESSMENT,..\Assets\Patient_Data\1\28-09-2024\assessment_Data\assessment_20240928_093223.csv,Null,Null,Null,None
+8,28-09-2024 09:33:41,R2,1,28-09-2024 09:33:41,28-09-2024 09:33:42,CALIBRATION,..\Assets\Patient_Data\1\28-09-2024\calibration\calibration_28092024_093341.csv,Null,Null,Null,Null
+8,28-09-2024 09:33:42,R2,1,28-09-2024 09:33:42,28-09-2024 09:33:47,CALIBRATION,..\Assets\Patient_Data\1\28-09-2024\calibration\calibration_28092024_093342.csv,Null,Null,Null,Null
+8,28-09-2024 09:33:48,R2,1,28-09-2024 09:33:49,28-09-2024 09:34:26, REACHING ASSESSMENT,..\Assets\Patient_Data\1\28-09-2024\assessment_Data\assessment_20240928_093348.csv,Null,Null,Null,-3.20007;-1.33537;
+9,04-10-2024 16:07:39,R2,1,04-10-2024 16:07:39,04-10-2024 16:07:44,CALIBRATION,..\Assets\Patient_Data\1\04-10-2024\calibration\calibration_04102024_160739.csv,Null,Null,Null,Null
+9,04-10-2024 16:07:44,R2,1,04-10-2024 16:07:44,04-10-2024 16:07:50,CALIBRATION,..\Assets\Patient_Data\1\04-10-2024\calibration\calibration_04102024_160744.csv,Null,Null,Null,Null
+9,04-10-2024 16:07:50,R2,1,04-10-2024 16:07:50,04-10-2024 16:07:59,CALIBRATION,..\Assets\Patient_Data\1\04-10-2024\calibration\calibration_04102024_160750.csv,Null,Null,Null,Null
+9,04-10-2024 16:08:02,R2,1,04-10-2024 16:08:02,04-10-2024 16:08:29, REACHING ASSESSMENT,..\Assets\Patient_Data\1\04-10-2024\assessment_Data\assessment_20241004_160802.csv,Null,Null,Null,-3.20007;-1.33537;
+9,04-10-2024 16:08:32,R2,0,04-10-2024 16:08:32,04-10-2024 16:08:43,SPACESHOOTER,..\Assets\Patient_Data\1\04-10-2024\spaceshooter\space_04102024_160832.csv,Null,Null,Null,1
+9,04-10-2024 16:08:46,R2,0,04-10-2024 16:08:47,04-10-2024 16:09:01,TUK-TUK,..\Assets\Patient_Data\1\04-10-2024\flappy_Data\FlappyGameData_04102024_160846.csv,NULL,Null,Null,-2
+9,04-10-2024 16:09:07,R2,0,04-10-2024 16:09:07,04-10-2024 16:09:21,PING-PONG,..\Assets\Patient_Data\1\04-10-2024\Pong_Data\Pong_04102024_160907.csv,Null,Null,Null,1
+10,22-10-2024 15:10:12,R2,0,22-10-2024 15:10:12,22-10-2024 15:11:14,SPACESHOOTER,..\Assets\Patient_Data\1\22-10-2024\spaceshooter\space_22102024_151012.csv,Null,Null,Null,0.9
+11,22-10-2024 15:25:28,R2,1,22-10-2024 15:25:28,22-10-2024 15:25:30,CALIBRATION,..\Assets\Patient_Data\1\22-10-2024\calibration\calibration_22102024_152528.csv,Null,Null,Null,Null
+11,22-10-2024 15:25:34,R2,0,22-10-2024 15:25:34,22-10-2024 15:25:47,SPACESHOOTER,..\Assets\Patient_Data\1\22-10-2024\spaceshooter\space_22102024_152534.csv,Null,Null,Null,0.8
+12,22-10-2024 16:16:58,R2,1,22-10-2024 16:16:58,22-10-2024 16:17:03, REACHING ASSESSMENT,..\Assets\Patient_Data\1\22-10-2024\assessment_Data\assessment_20241022_161658.csv,Null,Null,Null,0;-4.368;
+12,22-10-2024 16:17:05,R2,1,22-10-2024 16:17:05,22-10-2024 16:17:08,CALIBRATION,..\Assets\Patient_Data\1\22-10-2024\calibration\calibration_22102024_161705.csv,Null,Null,Null,Null
+12,22-10-2024 16:17:11,R2,0,22-10-2024 16:17:11,22-10-2024 16:17:17,SPACESHOOTER,..\Assets\Patient_Data\1\22-10-2024\spaceshooter\space_22102024_161711.csv,Null,Null,Null,0.7
+13,09-11-2024 12:12:39,R2,1,09-11-2024 12:12:39,09-11-2024 12:13:13,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_121239.csv,Null,Null,Null,Null
+14,09-11-2024 12:23:41,R2,1,09-11-2024 12:23:41,09-11-2024 12:23:59,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_122341.csv,Null,Null,Null,Null
+15,09-11-2024 12:32:38,R2,1,09-11-2024 12:32:38,09-11-2024 12:32:49,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_123238.csv,Null,Null,Null,Null
+15,09-11-2024 12:32:49,R2,1,09-11-2024 12:32:49,09-11-2024 12:33:58,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_123249.csv,Null,Null,Null,Null
+15,09-11-2024 12:33:58,R2,1,09-11-2024 12:33:58,09-11-2024 12:34:00,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_123358.csv,Null,Null,Null,Null
+16,09-11-2024 12:34:15,R2,1,09-11-2024 12:34:15,09-11-2024 12:34:17,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_123415.csv,Null,Null,Null,Null
+16,09-11-2024 12:34:18,R2,1,09-11-2024 12:34:18,09-11-2024 12:34:42,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_123418.csv,Null,Null,Null,Null
+17,09-11-2024 12:41:41,R2,1,09-11-2024 12:41:41,09-11-2024 12:42:40,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_124141.csv,Null,Null,Null,Null
+17,09-11-2024 12:42:40,R2,1,09-11-2024 12:42:40,09-11-2024 12:46:24,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_124240.csv,Null,Null,Null,Null
+18,09-11-2024 12:48:57,R2,1,09-11-2024 12:48:57,09-11-2024 12:49:20,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_124857.csv,Null,Null,Null,Null
+18,09-11-2024 12:49:20,R2,1,09-11-2024 12:49:20,09-11-2024 12:50:53,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_124920.csv,Null,Null,Null,Null
+19,09-11-2024 12:51:08,R2,1,09-11-2024 12:51:08,09-11-2024 12:51:14,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_125108.csv,Null,Null,Null,Null
+19,09-11-2024 12:51:14,R2,1,09-11-2024 12:51:14,09-11-2024 12:52:58,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_125114.csv,Null,Null,Null,Null
+20,09-11-2024 12:53:40,R2,1,09-11-2024 12:53:40,09-11-2024 12:53:44,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_125340.csv,Null,Null,Null,Null
+20,09-11-2024 12:53:44,R2,1,09-11-2024 12:53:44,09-11-2024 12:53:52,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_125344.csv,Null,Null,Null,Null
+20,09-11-2024 12:53:53,R2,1,09-11-2024 12:53:53,09-11-2024 12:55:59,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_125353.csv,Null,Null,Null,Null
+21,09-11-2024 12:56:53,R2,1,09-11-2024 12:56:53,09-11-2024 12:57:13,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_125653.csv,Null,Null,Null,Null
+21,09-11-2024 12:57:13,R2,1,09-11-2024 12:57:13,09-11-2024 12:57:51,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_125713.csv,Null,Null,Null,Null
+21,09-11-2024 12:57:51,R2,1,09-11-2024 12:57:51,09-11-2024 12:58:27,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_125751.csv,Null,Null,Null,Null
+22,09-11-2024 12:59:17,R2,1,09-11-2024 12:59:17,09-11-2024 12:59:21,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_125917.csv,Null,Null,Null,Null
+22,09-11-2024 12:59:21,R2,1,09-11-2024 12:59:21,09-11-2024 13:00:23,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_125921.csv,Null,Null,Null,Null
+23,09-11-2024 13:01:08,R2,1,09-11-2024 13:01:08,09-11-2024 13:01:26,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_130108.csv,Null,Null,Null,Null
+23,09-11-2024 13:01:26,R2,1,09-11-2024 13:01:26,09-11-2024 13:01:47,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_130126.csv,Null,Null,Null,Null
+24,09-11-2024 13:01:58,R2,1,09-11-2024 13:01:58,09-11-2024 13:02:01,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_130158.csv,Null,Null,Null,Null
+24,09-11-2024 13:02:01,R2,1,09-11-2024 13:02:01,09-11-2024 13:02:29,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_130201.csv,Null,Null,Null,Null
+25,09-11-2024 13:04:30,R2,1,09-11-2024 13:04:30,09-11-2024 13:04:33,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_130430.csv,Null,Null,Null,Null
+25,09-11-2024 13:04:33,R2,1,09-11-2024 13:04:33,09-11-2024 13:05:23,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_130433.csv,Null,Null,Null,Null
+26,09-11-2024 13:05:42,R2,1,09-11-2024 13:05:42,09-11-2024 13:05:57,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_130542.csv,Null,Null,Null,Null
+26,09-11-2024 13:05:58,R2,1,09-11-2024 13:05:58,09-11-2024 13:06:03,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_130558.csv,Null,Null,Null,Null
+27,09-11-2024 13:08:28,R2,1,09-11-2024 13:08:28,09-11-2024 13:09:09,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_130828.csv,Null,Null,Null,Null
+27,09-11-2024 13:09:13,R2,1,09-11-2024 13:09:13,09-11-2024 13:10:00, REACHING ASSESSMENT,..\Assets\Patient_Data\1\09-11-2024\assessment_Data\assessment_20241109_130913.csv,Null,Null,Null,None
+28,09-11-2024 13:10:36,R2,1,09-11-2024 13:10:36,09-11-2024 13:10:48,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_131036.csv,Null,Null,Null,Null
+28,09-11-2024 13:10:48,R2,1,09-11-2024 13:10:48,09-11-2024 13:11:02,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_131048.csv,Null,Null,Null,Null
+28,09-11-2024 13:11:06,R2,0,09-11-2024 13:11:06,09-11-2024 13:11:16,SPACESHOOTER,..\Assets\Patient_Data\1\09-11-2024\spaceshooter\space_09112024_131106.csv,Null,Null,Null,0.6
+28,09-11-2024 13:11:23,R2,1,09-11-2024 13:11:23,09-11-2024 13:11:25,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_131123.csv,Null,Null,Null,Null
+28,09-11-2024 13:11:26,R2,1,09-11-2024 13:11:26,09-11-2024 13:11:36,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_131126.csv,Null,Null,Null,Null
+29,09-11-2024 13:12:22,R2,1,09-11-2024 13:12:22,09-11-2024 13:12:24,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_131222.csv,Null,Null,Null,Null
+29,09-11-2024 13:12:25,R2,1,09-11-2024 13:12:25,09-11-2024 13:12:32,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_131225.csv,Null,Null,Null,Null
+29,09-11-2024 13:12:32,R2,1,09-11-2024 13:12:32,09-11-2024 13:12:57,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_131232.csv,Null,Null,Null,Null
+30,09-11-2024 13:14:46,R2,1,09-11-2024 13:14:46,09-11-2024 13:15:24,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_131446.csv,Null,Null,Null,Null
+30,09-11-2024 13:15:25,R2,1,09-11-2024 13:15:25,09-11-2024 13:15:28,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_131525.csv,Null,Null,Null,Null
+30,09-11-2024 13:15:28,R2,1,09-11-2024 13:15:28,09-11-2024 13:15:54,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_131528.csv,Null,Null,Null,Null
+31,09-11-2024 13:16:28,R2,1,09-11-2024 13:16:28,09-11-2024 13:16:53,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_131628.csv,Null,Null,Null,Null
+32,09-11-2024 13:17:25,R2,1,09-11-2024 13:17:25,09-11-2024 13:18:18,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_131725.csv,Null,Null,Null,Null
+32,09-11-2024 13:18:18,R2,1,09-11-2024 13:18:18,09-11-2024 13:18:26,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_131818.csv,Null,Null,Null,Null
+32,09-11-2024 13:18:27,R2,1,09-11-2024 13:18:27,09-11-2024 13:18:35,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_131827.csv,Null,Null,Null,Null
+32,09-11-2024 13:18:35,R2,1,09-11-2024 13:18:35,09-11-2024 13:18:39,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_131835.csv,Null,Null,Null,Null
+33,09-11-2024 13:28:07,R2,1,09-11-2024 13:28:07,09-11-2024 13:28:09,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_132807.csv,Null,Null,Null,Null
+33,09-11-2024 13:28:10,R2,1,09-11-2024 13:28:10,09-11-2024 13:29:31,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_132810.csv,Null,Null,Null,Null
+34,09-11-2024 13:43:55,R2,1,09-11-2024 13:43:55,09-11-2024 13:44:21,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_134355.csv,Null,Null,Null,Null
+35,09-11-2024 13:46:16,R2,1,09-11-2024 13:46:16,09-11-2024 13:47:18,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_134616.csv,Null,Null,Null,Null
+35,09-11-2024 13:47:19,R2,1,09-11-2024 13:47:19,09-11-2024 14:02:36,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_134719.csv,Null,Null,Null,Null
+36,09-11-2024 14:07:17,R2,1,09-11-2024 14:07:17,09-11-2024 14:07:33,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_140717.csv,Null,Null,Null,Null
+37,09-11-2024 14:09:51,R2,1,09-11-2024 14:09:51,09-11-2024 14:09:55,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_140951.csv,Null,Null,Null,Null
+37,09-11-2024 14:09:56,R2,1,09-11-2024 14:09:56,09-11-2024 14:10:48,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_140956.csv,Null,Null,Null,Null
+37,09-11-2024 14:10:49,R2,1,09-11-2024 14:10:49,09-11-2024 14:10:59,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_141049.csv,Null,Null,Null,Null
+37,09-11-2024 14:11:00,R2,1,09-11-2024 14:11:00,09-11-2024 14:11:01,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_141100.csv,Null,Null,Null,Null
+38,09-11-2024 14:13:52,R2,1,09-11-2024 14:13:52,09-11-2024 14:13:54,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_141352.csv,Null,Null,Null,Null
+38,09-11-2024 14:13:54,R2,1,09-11-2024 14:13:54,09-11-2024 14:14:08,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_141354.csv,Null,Null,Null,Null
+39,09-11-2024 14:42:52,R2,1,09-11-2024 14:42:52,09-11-2024 14:42:57,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_144252.csv,Null,Null,Null,Null
+39,09-11-2024 14:42:57,R2,1,09-11-2024 14:42:57,09-11-2024 14:43:29,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_144257.csv,Null,Null,Null,Null
+39,09-11-2024 14:43:29,R2,1,09-11-2024 14:43:29,09-11-2024 14:43:54,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_144329.csv,Null,Null,Null,Null
+40,09-11-2024 14:49:28,R2,1,09-11-2024 14:49:28,09-11-2024 14:49:32,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_144928.csv,Null,Null,Null,Null
+40,09-11-2024 14:49:32,R2,1,09-11-2024 14:49:32,09-11-2024 14:49:41,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_144932.csv,Null,Null,Null,Null
+41,09-11-2024 14:50:36,R2,1,09-11-2024 14:50:36,09-11-2024 14:50:41,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_145036.csv,Null,Null,Null,Null
+41,09-11-2024 14:50:42,R2,1,09-11-2024 14:50:42,09-11-2024 14:50:50,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_145042.csv,Null,Null,Null,Null
+41,09-11-2024 14:50:54,R2,0,09-11-2024 14:50:54,09-11-2024 14:51:08,SPACESHOOTER,..\Assets\Patient_Data\1\09-11-2024\spaceshooter\space_09112024_145054.csv,Null,Null,Null,0.5
+42,09-11-2024 14:56:55,R2,1,09-11-2024 14:56:55,09-11-2024 14:56:56,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_145655.csv,Null,Null,Null,Null
+42,09-11-2024 14:56:57,R2,1,09-11-2024 14:56:57,09-11-2024 14:57:00,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_145657.csv,Null,Null,Null,Null
+42,09-11-2024 14:57:00,R2,1,09-11-2024 14:57:00,09-11-2024 14:57:08,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_145700.csv,Null,Null,Null,Null
+42,09-11-2024 14:57:12,R2,0,09-11-2024 14:57:12,09-11-2024 14:58:28,SPACESHOOTER,..\Assets\Patient_Data\1\09-11-2024\spaceshooter\space_09112024_145712.csv,Null,Null,Null,0.4
+43,09-11-2024 15:02:12,R2,1,09-11-2024 15:02:12,09-11-2024 15:02:15,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_150212.csv,Null,Null,Null,Null
+43,09-11-2024 15:02:15,R2,1,09-11-2024 15:02:15,09-11-2024 15:02:30,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_150215.csv,Null,Null,Null,Null
+43,09-11-2024 15:02:30,R2,1,09-11-2024 15:02:30,09-11-2024 15:02:33,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_150230.csv,Null,Null,Null,Null
+43,09-11-2024 15:02:33,R2,1,09-11-2024 15:02:33,09-11-2024 15:02:47,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_150233.csv,Null,Null,Null,Null
+44,09-11-2024 15:04:12,R2,1,09-11-2024 15:04:12,09-11-2024 15:04:15,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_150412.csv,Null,Null,Null,Null
+44,09-11-2024 15:04:15,R2,1,09-11-2024 15:04:15,09-11-2024 15:04:27,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_150415.csv,Null,Null,Null,Null
+45,09-11-2024 15:22:04,R2,1,09-11-2024 15:22:04,09-11-2024 15:22:06,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_152204.csv,Null,Null,Null,Null
+45,09-11-2024 15:22:07,R2,1,09-11-2024 15:22:07,09-11-2024 15:22:08,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_152207.csv,Null,Null,Null,Null
+45,09-11-2024 15:22:08,R2,1,09-11-2024 15:22:08,09-11-2024 15:22:15,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_152208.csv,Null,Null,Null,Null
+45,09-11-2024 15:22:17,R2,1,09-11-2024 15:22:17,09-11-2024 15:22:34, REACHING ASSESSMENT,..\Assets\Patient_Data\1\09-11-2024\assessment_Data\assessment_20241109_152217.csv,Null,Null,Null,None
+46,09-11-2024 15:24:08,R2,1,09-11-2024 15:24:08,09-11-2024 15:24:13,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_152408.csv,Null,Null,Null,Null
+46,09-11-2024 15:24:13,R2,1,09-11-2024 15:24:13,09-11-2024 15:24:21,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_152413.csv,Null,Null,Null,Null
+46,09-11-2024 15:24:22,R2,1,09-11-2024 15:24:22,09-11-2024 15:24:54, REACHING ASSESSMENT,..\Assets\Patient_Data\1\09-11-2024\assessment_Data\assessment_20241109_152422.csv,Null,Null,Null,None
+47,09-11-2024 15:29:17,R2,1,09-11-2024 15:29:17,09-11-2024 15:29:20,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_152917.csv,Null,Null,Null,Null
+47,09-11-2024 15:29:20,R2,1,09-11-2024 15:29:20,09-11-2024 15:29:23,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_152920.csv,Null,Null,Null,Null
+47,09-11-2024 15:29:23,R2,1,09-11-2024 15:29:23,09-11-2024 15:29:29,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_152923.csv,Null,Null,Null,Null
+47,09-11-2024 15:29:30,R2,1,09-11-2024 15:29:30,09-11-2024 15:30:34, REACHING ASSESSMENT,..\Assets\Patient_Data\1\09-11-2024\assessment_Data\assessment_20241109_152930.csv,Null,Null,Null,None
+48,09-11-2024 15:31:02,R2,1,09-11-2024 15:31:02,09-11-2024 15:31:07,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_153102.csv,Null,Null,Null,Null
+48,09-11-2024 15:31:08,R2,1,09-11-2024 15:31:08,09-11-2024 15:31:10,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_153108.csv,Null,Null,Null,Null
+48,09-11-2024 15:31:10,R2,1,09-11-2024 15:31:10,09-11-2024 15:31:20,CALIBRATION,..\Assets\Patient_Data\1\09-11-2024\calibration\calibration_09112024_153110.csv,Null,Null,Null,Null
+48,09-11-2024 15:31:22,R2,1,09-11-2024 15:31:22,09-11-2024 15:31:37, REACHING ASSESSMENT,..\Assets\Patient_Data\1\09-11-2024\assessment_Data\assessment_20241109_153122.csv,Null,Null,Null,None
+49,09-11-2024 15:32:40,R2,1,09-11-2024 15:32:40,09-11-2024 15:33:05, REACHING ASSESSMENT,..\Assets\Patient_Data\1\09-11-2024\assessment_Data\assessment_20241109_153240.csv,Null,Null,Null,None
+50,09-11-2024 15:34:01,R2,1,09-11-2024 15:34:01,09-11-2024 15:34:13, REACHING ASSESSMENT,..\Assets\Patient_Data\1\09-11-2024\assessment_Data\assessment_20241109_153401.csv,Null,Null,Null,None
+51,09-11-2024 15:35:41,R2,1,09-11-2024 15:35:41,09-11-2024 15:36:04, REACHING ASSESSMENT,..\Assets\Patient_Data\1\09-11-2024\assessment_Data\assessment_20241109_153541.csv,Null,Null,Null,None
+52,09-11-2024 15:36:55,R2,1,09-11-2024 15:36:55,09-11-2024 15:37:26, REACHING ASSESSMENT,..\Assets\Patient_Data\1\09-11-2024\assessment_Data\assessment_20241109_153655.csv,Null,Null,Null,0.05826352;0.4513706;
+53,11-11-2024 08:26:59,R2,1,11-11-2024 08:26:59,11-11-2024 08:27:09,CALIBRATION,..\Assets\Patient_Data\1\11-11-2024\calibration\calibration_11112024_082659.csv,Null,Null,Null,Null
+53,11-11-2024 08:27:13,R2,0,11-11-2024 08:27:13,11-11-2024 08:27:37,SPACESHOOTER,..\Assets\Patient_Data\1\11-11-2024\spaceshooter\space_11112024_082713.csv,Null,Null,Null,0.5
+53,11-11-2024 08:27:38,R2,1,11-11-2024 08:27:38,11-11-2024 08:27:56,CALIBRATION,..\Assets\Patient_Data\1\11-11-2024\calibration\calibration_11112024_082738.csv,Null,Null,Null,Null
+53,11-11-2024 08:27:57,R2,1,11-11-2024 08:27:57,11-11-2024 08:28:04,CALIBRATION,..\Assets\Patient_Data\1\11-11-2024\calibration\calibration_11112024_082757.csv,Null,Null,Null,Null
+53,11-11-2024 08:28:08,R2,0,11-11-2024 08:28:08,11-11-2024 08:30:29,SPACESHOOTER,..\Assets\Patient_Data\1\11-11-2024\spaceshooter\space_11112024_082808.csv,Null,Null,Null,0.6
+53,11-11-2024 08:30:31,R2,1,11-11-2024 08:30:31,11-11-2024 08:30:44,CALIBRATION,..\Assets\Patient_Data\1\11-11-2024\calibration\calibration_11112024_083031.csv,Null,Null,Null,Null
+53,11-11-2024 08:30:49,R2,0,11-11-2024 08:30:49,11-11-2024 08:31:27,SPACESHOOTER,..\Assets\Patient_Data\1\11-11-2024\spaceshooter\space_11112024_083049.csv,Null,Null,Null,0.5
+53,11-11-2024 08:31:29,R2,1,11-11-2024 08:31:29,11-11-2024 08:31:33,CALIBRATION,..\Assets\Patient_Data\1\11-11-2024\calibration\calibration_11112024_083129.csv,Null,Null,Null,Null
+53,11-11-2024 08:31:34,R2,1,11-11-2024 08:31:34,11-11-2024 08:31:43,CALIBRATION,..\Assets\Patient_Data\1\11-11-2024\calibration\calibration_11112024_083134.csv,Null,Null,Null,Null
+53,11-11-2024 08:31:48,R2,0,11-11-2024 08:31:48,11-11-2024 08:32:51,SPACESHOOTER,..\Assets\Patient_Data\1\11-11-2024\spaceshooter\space_11112024_083148.csv,Null,Null,Null,0.4
+53,11-11-2024 08:32:54,R2,1,11-11-2024 08:32:54,11-11-2024 08:33:07,CALIBRATION,..\Assets\Patient_Data\1\11-11-2024\calibration\calibration_11112024_083254.csv,Null,Null,Null,Null
+53,11-11-2024 08:33:10,R2,0,11-11-2024 08:33:10,11-11-2024 08:33:47,SPACESHOOTER,..\Assets\Patient_Data\1\11-11-2024\spaceshooter\space_11112024_083310.csv,Null,Null,Null,0.5
+53,11-11-2024 08:33:58,R2,1,11-11-2024 08:33:58,11-11-2024 08:34:11,CALIBRATION,..\Assets\Patient_Data\1\11-11-2024\calibration\calibration_11112024_083358.csv,Null,Null,Null,Null
+53,11-11-2024 08:34:15,R2,0,11-11-2024 08:34:15,11-11-2024 08:34:26,SPACESHOOTER,..\Assets\Patient_Data\1\11-11-2024\spaceshooter\space_11112024_083415.csv,Null,Null,Null,0.6
+53,11-11-2024 08:34:28,R2,1,11-11-2024 08:34:28,11-11-2024 08:34:37,CALIBRATION,..\Assets\Patient_Data\1\11-11-2024\calibration\calibration_11112024_083428.csv,Null,Null,Null,Null
+53,11-11-2024 08:34:40,R2,0,11-11-2024 08:34:40,11-11-2024 08:35:42,SPACESHOOTER,..\Assets\Patient_Data\1\11-11-2024\spaceshooter\space_11112024_083440.csv,Null,Null,Null,0.7
+53,11-11-2024 08:35:46,R2,0,11-11-2024 08:35:46,11-11-2024 08:36:57,SPACESHOOTER,..\Assets\Patient_Data\1\11-11-2024\spaceshooter\space_11112024_083546.csv,Null,Null,Null,0.6
+53,11-11-2024 08:36:59,R2,1,11-11-2024 08:36:59,11-11-2024 08:37:09,CALIBRATION,..\Assets\Patient_Data\1\11-11-2024\calibration\calibration_11112024_083659.csv,Null,Null,Null,Null
+53,11-11-2024 08:37:13,R2,0,11-11-2024 08:37:13,11-11-2024 08:37:37,SPACESHOOTER,..\Assets\Patient_Data\1\11-11-2024\spaceshooter\space_11112024_083713.csv,Null,Null,Null,0.5
+53,11-11-2024 08:37:47,R2,1,11-11-2024 08:37:47,11-11-2024 08:37:53,CALIBRATION,..\Assets\Patient_Data\1\11-11-2024\calibration\calibration_11112024_083747.csv,Null,Null,Null,Null
+53,11-11-2024 08:37:53,R2,1,11-11-2024 08:37:53,11-11-2024 08:38:01,CALIBRATION,..\Assets\Patient_Data\1\11-11-2024\calibration\calibration_11112024_083753.csv,Null,Null,Null,Null
+53,11-11-2024 08:38:02,R2,1,11-11-2024 08:38:02,11-11-2024 08:38:08,CALIBRATION,..\Assets\Patient_Data\1\11-11-2024\calibration\calibration_11112024_083802.csv,Null,Null,Null,Null
+53,11-11-2024 08:38:11,R2,0,11-11-2024 08:38:11,11-11-2024 08:38:32,SPACESHOOTER,..\Assets\Patient_Data\1\11-11-2024\spaceshooter\space_11112024_083811.csv,Null,Null,Null,0.4
+53,11-11-2024 08:38:37,R2,1,11-11-2024 08:38:37,11-11-2024 08:38:47,CALIBRATION,..\Assets\Patient_Data\1\11-11-2024\calibration\calibration_11112024_083837.csv,Null,Null,Null,Null
+53,11-11-2024 08:38:51,R2,0,11-11-2024 08:38:51,11-11-2024 08:39:41,SPACESHOOTER,..\Assets\Patient_Data\1\11-11-2024\spaceshooter\space_11112024_083851.csv,Null,Null,Null,0.3
+53,11-11-2024 08:39:42,R2,1,11-11-2024 08:39:42,11-11-2024 08:39:47,CALIBRATION,..\Assets\Patient_Data\1\11-11-2024\calibration\calibration_11112024_083942.csv,Null,Null,Null,Null
+53,11-11-2024 08:39:48,R2,1,11-11-2024 08:39:48,11-11-2024 08:40:00,CALIBRATION,..\Assets\Patient_Data\1\11-11-2024\calibration\calibration_11112024_083948.csv,Null,Null,Null,Null
+53,11-11-2024 08:40:03,R2,0,11-11-2024 08:40:03,11-11-2024 08:40:35,SPACESHOOTER,..\Assets\Patient_Data\1\11-11-2024\spaceshooter\space_11112024_084003.csv,Null,Null,Null,0.2
+53,11-11-2024 08:40:38,R2,1,11-11-2024 08:40:38,11-11-2024 08:40:50,CALIBRATION,..\Assets\Patient_Data\1\11-11-2024\calibration\calibration_11112024_084038.csv,Null,Null,Null,Null
+53,11-11-2024 08:40:50,R2,1,11-11-2024 08:40:50,11-11-2024 08:42:05,CALIBRATION,..\Assets\Patient_Data\1\11-11-2024\calibration\calibration_11112024_084050.csv,Null,Null,Null,Null
+53,11-11-2024 08:42:08,R2,0,11-11-2024 08:42:08,11-11-2024 08:42:58,SPACESHOOTER,..\Assets\Patient_Data\1\11-11-2024\spaceshooter\space_11112024_084208.csv,Null,Null,Null,0.1
