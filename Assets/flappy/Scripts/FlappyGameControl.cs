@@ -350,7 +350,8 @@ public class FlappyGameControl : MonoBehaviour
 
     public void RandomAngle()
     {
-        ypos = UnityEngine.Random.Range(-3f, 5.5f);
+        //ypos = UnityEngine.Random.Range(-3f, 5.5f);
+        ypos = UnityEngine.Random.Range(BirdControl.instance.aromMinY<-3f?-3f: BirdControl.instance.aromMinY, BirdControl.instance.aromMaxY>5.5f?5.5f: BirdControl.instance.aromMaxY);
     }
 
     public void playAgain()

@@ -18,6 +18,7 @@ public class Done_Mover : MonoBehaviour
         //{
         //    GetComponent<Rigidbody>().velocity = transform.forward * speed;
         //}
+
         GetComponent<Rigidbody>().velocity = transform.forward * speed;
         Debug.Log("Initialized movement with speed: " + speed);
     }

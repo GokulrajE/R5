@@ -84,6 +84,14 @@ public class Done_PlayerController : MonoBehaviour
     float romMaxY = 17f;
     float romMinX = 53f;
     float romMaxX = -24f;
+    public float aRomMinY;
+    public float aRomMaxY;
+    public float aRomMinX;
+    public float aRomMaxX;
+    public float pRomMinY;
+    public float pRomMaxY;
+    public float pRomMinX;
+    float pRomMaxX;
 
     void Awake()
     {
@@ -129,13 +137,20 @@ public class Done_PlayerController : MonoBehaviour
         GameState gameState = (GameState)gameStateValue;
         //UpdateGameState(gameState);
         LogGameState(currentState);
-        
+
         //Active Range of Motion of the patient to be clamped with game scene
         //Debug.Log(ChooseGame.instance.max_x + ", " + ChooseGame.instance.min_x + ", " + ChooseGame.instance.max_y + ", " + ChooseGame.instance.min_y);
-        //romMinX = ChooseGame.instance.max_x;
-        //romMaxX = ChooseGame.instance.min_x;
-        //romMaxY = ChooseGame.instance.min_y;
-        //romMinY = ChooseGame.instance.max_y;
+        aRomMinX = ChooseGame.instance.max_x;
+        aRomMaxX = ChooseGame.instance.min_x;
+        aRomMaxY = ChooseGame.instance.min_y;
+        aRomMinY = ChooseGame.instance.max_y;
+        pRomMinX = Drawlines.PRomXmax < romMinX ? pRomMinX = Drawlines.PRomXmax : pRomMinX = romMinX;//53
+        pRomMaxX = Drawlines.PRomXmin > romMaxX ? pRomMaxX = Drawlines.PRomXmin : pRomMaxX = romMaxX;//-24
+        pRomMinY = Drawlines.PRomYmax < romMinY ? pRomMinY = Drawlines.PRomYmax : pRomMinY = romMinY;//67
+        pRomMaxY = Drawlines.PRomYmin < romMaxY ? pRomMaxY = Drawlines.PRomYmin : pRomMaxY = romMaxY;//17
+        aRomMinX = MapXpToScreenX(aRomMinX);
+        aRomMaxX = MapXpToScreenX(aRomMaxX);
+        Debug.Log(aRomMinX + "/" + aRomMaxX + "spawnBoundary");
     }
     private void UpdateGameState(GameState state)
     {
@@ -145,13 +160,14 @@ public class Done_PlayerController : MonoBehaviour
     }
     void Update()
     {
+        movePlayer();
         PlayerX = PlayerPrefs.GetFloat("Playerx");
         PlayerY = PlayerPrefs.GetFloat("Playery");
         hazardX = PlayerPrefs.GetFloat("HazardX");
         hazardY = PlayerPrefs.GetFloat("HazardY");
         
         timer_ += Time.deltaTime;
-        movePlayer();
+       
     }
     
    
@@ -195,7 +211,7 @@ public class Done_PlayerController : MonoBehaviour
         float playSizeX = boundary.xMax - boundary.xMin;
 
         // Map xp to screen X range
-        float screenX = boundary.xMin + ((xp - romMinX ) / (romMaxX - romMinX)) * playSizeX;
+        float screenX = boundary.xMin + ((xp - pRomMinX ) / (pRomMaxX - pRomMinX)) * playSizeX;
 
         // Clamp to ensure it stays within valid range
         return Mathf.Clamp(screenX, boundary.xMin - 0.2f * playSizeX, boundary.xMax + 0.2f * playSizeX);
@@ -206,7 +222,7 @@ public class Done_PlayerController : MonoBehaviour
         float playSizeZ = boundary.zMax - boundary.zMin;
 
         // Map yp to screen Z range
-        float screenZ = boundary.zMin + ((yp - romMinY) / (romMaxY- romMinY)) * playSizeZ;
+        float screenZ = boundary.zMin + ((yp - pRomMinY) / (pRomMaxY- pRomMinY)) * playSizeZ;
 
         // Clamp to keep it within the range
         return Mathf.Clamp(screenZ, boundary.zMin - 0.2f * playSizeZ, boundary.zMax + 0.2f * playSizeZ);

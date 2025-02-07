@@ -111,8 +111,13 @@ public class BirdControl : MonoBehaviour
     private FlappyColumn flappyColumn;
 
     //Actual x and z coordinates of the robot posistion
-    float romMinY = 67f;
-    float romMaxY = 17f;
+    float romMinY = 80f;
+    float romMaxY = 0f;
+    //from real device possition
+    public float aromMinY;
+    public float aromMaxY;
+    public float promMinY;
+    public float promMaxY;
     public static class flappyclass
     {
         public static string flappypath;
@@ -122,6 +127,7 @@ public class BirdControl : MonoBehaviour
     void Start()
     {
         // Debug.Log("START");
+        instance = this;
         hit_count = 0;
         collision_count = 0;
         startTime = 0;
@@ -163,7 +169,15 @@ public class BirdControl : MonoBehaviour
         WriteHeader();
 
         playSize = topBound - bottomBound;
-
+        aromMaxY = ChooseGame.instance.min_y;
+        aromMinY = ChooseGame.instance.max_y;
+        //promMinY = Drawlines.PRomYmax;
+        //promMaxY = Drawlines.PRomYmin;
+        promMinY = Drawlines.PRomYmax < romMinY ? promMinY = Drawlines.PRomYmax : promMinY = romMinY;//67
+        promMinY = Drawlines.PRomYmin < romMaxY ? promMinY = Drawlines.PRomYmin : promMaxY = romMaxY;//17
+        aromMaxY = MapYpToScreenY(aromMaxY);
+        aromMinY = MapYpToScreenY(aromMinY);
+        Debug.Log(aromMinY + "/" + aromMaxY + "birdspawnBoundary");
     }
 
     void WriteHeader()
@@ -180,6 +194,8 @@ public class BirdControl : MonoBehaviour
 
     private void Update()
     {
+        movePlayer();
+
         if (startBlinking == true)
         {
             hit_count = collision_count;
@@ -214,8 +230,6 @@ public class BirdControl : MonoBehaviour
             }
 
         }
-
-        movePlayer();
 
     }
   
@@ -273,7 +287,7 @@ public class BirdControl : MonoBehaviour
         float playSizeZ = topBound - bottomBound;
 
         // Map yp to screen Z range
-        float screenZ = bottomBound + ((yp - romMinY) / (romMaxY - romMinY)) * playSizeZ;
+        float screenZ = bottomBound + ((yp - promMinY) / (promMaxY - promMinY)) * playSizeZ;
 
         // Clamp to keep it within the range
         return Mathf.Clamp(screenZ, bottomBound - 3.6f * playSizeZ, topBound + 3.6f * playSizeZ);

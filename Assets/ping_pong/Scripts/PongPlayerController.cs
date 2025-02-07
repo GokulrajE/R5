@@ -44,10 +44,16 @@ public class PongPlayerController : MonoBehaviour
     public static float paddleparameter = 1;
     public static float updatepaddleparameter;
     public static float ppaddleparameter;
-
+    float romMinY = 67f;
+    float romMaxY = 17f;
+    float romMinX = 53f;
+    float romMaxX = -24f;
     //from real device possition
-    public float romMinY = 67f;
-    public float romMaxY = 17f;
+    public float aromMinY;
+    public float aromMaxY;
+    public float promMinY;
+    public float promMaxY;
+
 
     void Start()
     {
@@ -78,10 +84,13 @@ public class PongPlayerController : MonoBehaviour
         GameOverText.SetActive(false); 
 
         AdjustPaddleSizeForNextLevel();
+
         // for now
         ////Active Range of Motion of the patient to be clamped with game scene
-        //romMaxY = ChooseGame.instance.min_y;
-        //romMinY = ChooseGame.instance.max_y;
+        aromMaxY = ChooseGame.instance.min_y;
+        aromMinY = ChooseGame.instance.max_y;
+        promMinY = Drawlines.PRomYmax < romMinY ? promMinY = Drawlines.PRomYmax : promMinY = romMinY;//67
+        promMaxY = Drawlines.PRomYmin < romMaxY ? promMaxY = Drawlines.PRomYmin : promMaxY = romMaxY;//17
 
     }
 
@@ -150,7 +159,7 @@ public class PongPlayerController : MonoBehaviour
         float playSizeZ = topBound - bottomBound;
 
         // Map yp to screen Z range
-        float screenZ = bottomBound + ((yp - romMinY) / (romMaxY - romMinY)) * playSizeZ;
+        float screenZ = bottomBound + ((yp - promMinY) / (promMaxY - promMinY)) * playSizeZ;
 
         // Clamp to keep it within the range
         return Mathf.Clamp(screenZ, bottomBound - 3.6f * playSizeZ, topBound + 3.6f * playSizeZ);

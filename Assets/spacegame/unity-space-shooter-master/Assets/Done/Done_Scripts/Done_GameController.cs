@@ -348,7 +348,7 @@ public class Done_GameController : MonoBehaviour
                 {
                     // 50% chance to spawn within the range (-16.5 to +16.5)
                     spawnPosition = new Vector3(
-                        UnityEngine.Random.Range(-spawnValues.x, spawnValues.x),
+                        UnityEngine.Random.Range(Done_PlayerController.instance.aRomMinX, Done_PlayerController.instance.aRomMaxX),
                         spawnValues.y,
                         spawnValues.z
                     );

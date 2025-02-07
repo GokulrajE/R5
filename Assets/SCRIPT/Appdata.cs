@@ -380,8 +380,8 @@ public class JediSerialCom
         serPort.DtrEnable = true;
 
         // Set the read/write timeouts
-        serPort.ReadTimeout = 1500;
-        serPort.WriteTimeout = 1500;
+        serPort.ReadTimeout = 10;
+        serPort.WriteTimeout = 10;
         //reader = new Thread(Serialreaderthread);
      
     }
